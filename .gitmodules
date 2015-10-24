@@ -1,0 +1,8 @@
+[submodule "python-flock"]
+	path = flock
+	url = ssh://git@github.com/fishface60/python-flock.git
+	branch = master
+[submodule "python-gitcache"]
+	path = gitcache
+	url = ssh://git@github.com/fishface60/python-gitcache.git
+	branch = master
