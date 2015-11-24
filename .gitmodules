@@ -6,3 +6,7 @@
 	path = gitcache
 	url = ssh://git@github.com/fishface60/python-gitcache.git
 	branch = master
+[submodule "python-git-chroot-safe"]
+	path = git-chroot-safe
+	url = ssh://git@github.com/fishface60/python-git-chroot-safe.git
+	branch = master
